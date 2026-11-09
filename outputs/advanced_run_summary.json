@@ -1,0 +1,89 @@
+{
+  "selected_model": "catboost",
+  "calibration": "none",
+  "test_metrics": {
+    "accuracy": 0.6149732620320856,
+    "precision": 0.6059113300492611,
+    "recall": 0.6577540106951871,
+    "f1": 0.6307692307692307,
+    "roc_auc": 0.6608424604649833,
+    "log_loss": 0.653421911323306,
+    "brier": 0.23103913008715316
+  },
+  "audit": {
+    "source_odi_rows": 2617,
+    "unique_match_rows": 2617,
+    "duplicate_match_ids": 0,
+    "orientation_errors": 0,
+    "decisive_rows": 2487,
+    "feature_update_order": "snapshot before current-match update",
+    "orientation": "stable SHA-256 reversal",
+    "neutral_rule": "neutral only when supplied host_country is known and neither team is host",
+    "unknown_host_matches": 2144,
+    "world_cup_match_rows": 265,
+    "recent_team_centric_rows_used_in_training": 0,
+    "tournament_summary_rows_used_in_training": 0,
+    "location_coverage": {
+      "matches": 2617,
+      "covered_before": 473,
+      "covered_after": 2475,
+      "coverage_before": 0.180741306839893,
+      "coverage_after": 0.9457393962552542,
+      "unresolved_matches": 142,
+      "unique_unresolved_venue_city_pairs": 18
+    },
+    "model_location_mode": "direct",
+    "train_end": "2019-08-11",
+    "calibration_end": "2023-07-07",
+    "test_start": "2023-07-09",
+    "test_end": "2026-11-02",
+    "selected_family": "catboost",
+    "selected_calibration": "none",
+    "raw_model_mean_order_error": 0.020621403638991,
+    "served_prediction_mean_order_error": 2.9685107610298302e-18,
+    "train_mean_first_innings_runs": 244.37418300653596,
+    "test_mean_first_innings_runs": 251.66923076923078
+  },
+  "leaders": [
+    {
+      "team": "India",
+      "semi_final_probability": 0.83195,
+      "final_probability": 0.51865,
+      "win_probability": 0.3209,
+      "win_probability_ci_low": 0.28564999999999996,
+      "win_probability_ci_high": 0.36239999999999994
+    },
+    {
+      "team": "South Africa",
+      "semi_final_probability": 0.7524,
+      "final_probability": 0.42645,
+      "win_probability": 0.22345,
+      "win_probability_ci_low": 0.1918,
+      "win_probability_ci_high": 0.2601
+    },
+    {
+      "team": "Australia",
+      "semi_final_probability": 0.6787,
+      "final_probability": 0.3474,
+      "win_probability": 0.16465,
+      "win_probability_ci_low": 0.138,
+      "win_probability_ci_high": 0.18805
+    },
+    {
+      "team": "England",
+      "semi_final_probability": 0.52615,
+      "final_probability": 0.2333,
+      "win_probability": 0.104,
+      "win_probability_ci_low": 0.08185,
+      "win_probability_ci_high": 0.1261
+    },
+    {
+      "team": "New Zealand",
+      "semi_final_probability": 0.48625,
+      "final_probability": 0.21005,
+      "win_probability": 0.0876,
+      "win_probability_ci_low": 0.0639,
+      "win_probability_ci_high": 0.10805
+    }
+  ]
+}

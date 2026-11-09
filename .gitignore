@@ -1,0 +1,44 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+
+# Presentation and artifact build staging
+.presentation-build/
+.codex-finalizer/
+presentation/node_modules/
+node_modules/
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,90 @@
+{
+  "world_cup": {
+    "rows_raw": 502,
+    "rows_clean": 502,
+    "exact_duplicates_removed": 0,
+    "duplicate_keys_flagged": 0,
+    "date_min": "1975-06-07",
+    "date_max": "2023-11-19",
+    "invalid_dates": 0,
+    "missing_fraction": {
+      "winner": 0.0339,
+      "margin_value": 0.0438,
+      "margin_unit": 0.0339
+    }
+  },
+  "odi": {
+    "rows_raw": 2617,
+    "rows_clean": 2617,
+    "exact_duplicates_removed": 0,
+    "duplicate_keys_flagged": 0,
+    "date_min": "2002-06-27",
+    "date_max": "2026-11-02",
+    "invalid_dates": 0,
+    "missing_fraction": {
+      "city": 0.1074,
+      "event_name": 0.0053,
+      "event_match_number": 0.0447,
+      "event_group": 0.9079,
+      "winner": 0.0497,
+      "margin_value": 0.0497,
+      "margin_unit": 0.0497,
+      "result_method": 0.9148,
+      "eliminator": 0.9977,
+      "player_of_match": 0.0562,
+      "innings2_team": 0.0264,
+      "innings2_runs": 0.0264,
+      "innings2_wickets": 0.0264,
+      "innings2_overs": 0.0264,
+      "innings2_legal_balls": 0.0264
+    }
+  },
+  "recent": {
+    "rows_raw": 1000,
+    "rows_clean": 1000,
+    "exact_duplicates_removed": 0,
+    "duplicate_keys_flagged": 0,
+    "date_min": "2018-01-17",
+    "date_max": "2026-10-31",
+    "invalid_dates": 0,
+    "missing_fraction": {
+      "winner": 0.045,
+      "team_score": 0.011,
+      "team_overs": 0.011,
+      "opponent_score": 0.016,
+      "opponent_overs": 0.016,
+      "margin_value": 0.045,
+      "margin_unit": 0.045,
+      "stage": 0.025
+    }
+  },
+  "host": {
+    "rows_raw": 946,
+    "rows_clean": 946,
+    "exact_duplicates_removed": 0,
+    "duplicate_keys_flagged": 0,
+    "date_min": "2003-02-09",
+    "date_max": "2026-11-01",
+    "invalid_dates": 0,
+    "missing_fraction": {
+      "city": 0.1311,
+      "winner": 0.0465,
+      "batting_order": 0.0106,
+      "runs_for": 0.0106,
+      "wickets_lost": 0.0106,
+      "overs_faced": 0.0106,
+      "runs_against": 0.0106,
+      "wickets_taken": 0.0106,
+      "overs_bowled": 0.0106,
+      "margin_value": 0.0465,
+      "margin_unit": 0.0465,
+      "result_method": 0.9154,
+      "event_name": 0.0042,
+      "event_match_number": 0.0592,
+      "team_venue_win_rate_before": 0.2135,
+      "team_host_country_win_rate_before": 0.0539,
+      "venue_avg_first_innings_runs_before": 0.0529,
+      "venue_chasing_team_win_rate_before": 0.055
+    }
+  }
+}

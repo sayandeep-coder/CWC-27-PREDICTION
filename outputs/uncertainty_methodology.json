@@ -1,0 +1,12 @@
+{
+  "qualifier_profiles_represented_by_supplied_team_snapshots": {
+    "weak": "Bangladesh",
+    "median": "England",
+    "strong": "Australia"
+  },
+  "schedule_scenarios": [
+    "14-team round robin; top four",
+    "two randomly allocated groups of seven; top two per group"
+  ],
+  "interval_note": "Outer ranges combine Monte Carlo, bootstrap model, qualifier-strength, and schedule scenarios; they are uncertainty ranges, not formal confidence intervals."
+}

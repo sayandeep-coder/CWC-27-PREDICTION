@@ -1,0 +1,216 @@
+venue,city,venue_normalized,city_normalized,canonical_venue,country,host_team,mapping_method,matches
+Bulawayo Athletic Club,Bulawayo,bulawayo athletic club,bulawayo,Bulawayo Athletic Club,Zimbabwe,Zimbabwe,direct_host_match_id,5
+Bulawayo Athletic Club,,bulawayo athletic club,,Bulawayo Athletic Club,Zimbabwe,Zimbabwe,supplied_venue_country,1
+Harare Sports Club,Harare,harare sports club,harare,Harare Sports Club,Zimbabwe,Zimbabwe,direct_host_match_id,54
+Harare Sports Club,,harare sports club,,Harare Sports Club,Zimbabwe,Zimbabwe,direct_host_match_id,62
+"Old Hararians, Harare",Harare,old hararians harare,harare,"Old Hararians, Harare",Zimbabwe,Zimbabwe,direct_host_match_id,4
+"Queens Sports Club, Bulawayo",Bulawayo,queens sports club bulawayo,bulawayo,"Queens Sports Club, Bulawayo",Zimbabwe,Zimbabwe,direct_host_match_id,54
+"Takashinga Sports Club, Highfield, Harare",Harare,takashinga sports club highfield harare,harare,"Takashinga Sports Club, Highfield, Harare",Zimbabwe,Zimbabwe,direct_host_match_id,9
+"Antigua Recreation Ground, St John's",Antigua,antigua recreation ground st john s,antigua,"Antigua Recreation Ground, St John's",West Indies,West Indies,event_name_host,2
+"Arnos Vale Ground, Kingstown",Kingstown,arnos vale ground kingstown,kingstown,"Arnos Vale Ground, Kingstown",West Indies,West Indies,event_name_host,3
+"Arnos Vale Ground, Kingstown",St Vincent,arnos vale ground kingstown,st vincent,"Arnos Vale Ground, Kingstown",West Indies,West Indies,event_name_host,8
+"Beausejour Stadium, Gros Islet, St Lucia",Gros Islet,beausejour stadium gros islet st lucia,gros islet,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,West Indies,supplied_unique_city_country,1
+"Beausejour Stadium, Gros Islet, St Lucia",St Lucia,beausejour stadium gros islet st lucia,st lucia,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,West Indies,consistent_resolved_venue;event_name_host,19
+"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,brian lara stadium tarouba trinidad,tarouba,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,West Indies,event_name_host,4
+"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,darren sammy national cricket stadium gros islet st lucia,gros islet,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,West Indies,supplied_unique_city_country,1
+Kensington Oval,Barbados,kensington oval,barbados,Kensington Oval,West Indies,West Indies,supplied_venue_country,16
+Kensington Oval,Bridgetown,kensington oval,bridgetown,Kensington Oval,West Indies,West Indies,supplied_venue_country,17
+"National Cricket Stadium, St George's, Grenada",Grenada,national cricket stadium st george s grenada,grenada,"National Cricket Stadium, St George's, Grenada",West Indies,West Indies,consistent_resolved_venue;event_name_host,12
+"National Cricket Stadium, St George's, Grenada",St George's,national cricket stadium st george s grenada,st george s,"National Cricket Stadium, St George's, Grenada",West Indies,West Indies,supplied_unique_city_country,5
+"Providence Stadium, Guyana",Guyana,providence stadium guyana,guyana,"Providence Stadium, Guyana",West Indies,West Indies,consistent_resolved_venue;event_name_host,21
+"Providence Stadium, Guyana",Providence,providence stadium guyana,providence,"Providence Stadium, Guyana",West Indies,West Indies,supplied_unique_city_country,7
+"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,queen s park oval port of spain trinidad,port of spain,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,West Indies,supplied_unique_city_country,6
+"Queen's Park Oval, Port of Spain, Trinidad",Trinidad,queen s park oval port of spain trinidad,trinidad,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,West Indies,consistent_resolved_venue;event_name_host,22
+Sabina Park,Jamaica,sabina park,jamaica,Sabina Park,West Indies,West Indies,supplied_venue_country,19
+Sabina Park,Kingston,sabina park,kingston,Sabina Park,West Indies,West Indies,supplied_venue_country,5
+"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua,sir vivian richards stadium north sound antigua,antigua,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,West Indies,consistent_resolved_venue;event_name_host,17
+"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,sir vivian richards stadium north sound antigua,north sound,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,West Indies,supplied_unique_city_country,7
+"Warner Park, St Kitts",Basseterre,warner park st kitts,basseterre,"Warner Park, St Kitts",West Indies,West Indies,supplied_unique_city_country,3
+"Warner Park, St Kitts",St Kitts,warner park st kitts,st kitts,"Warner Park, St Kitts",West Indies,West Indies,consistent_resolved_venue;event_name_host,18
+"Windsor Park, Roseau",Dominica,windsor park roseau,dominica,"Windsor Park, Roseau",West Indies,West Indies,event_name_host,4
+"Sophia Gardens, Cardiff",Cardiff,sophia gardens cardiff,cardiff,"Sophia Gardens, Cardiff",Wales,England,supplied_unique_city_country,26
+Dubai International Cricket Stadium,Dubai,dubai international cricket stadium,dubai,Dubai International Cricket Stadium,United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,33
+Dubai International Cricket Stadium,,dubai international cricket stadium,,Dubai International Cricket Stadium,United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,27
+"ICC Academy, Dubai",Dubai,icc academy dubai,dubai,"ICC Academy, Dubai",United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,29
+Sharjah Cricket Stadium,Sharjah,sharjah cricket stadium,sharjah,Sharjah Cricket Stadium,United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,18
+Sharjah Cricket Stadium,,sharjah cricket stadium,,Sharjah Cricket Stadium,United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,15
+"Sheikh Zayed Stadium, Abu Dhabi",Abu Dhabi,sheikh zayed stadium abu dhabi,abu dhabi,"Sheikh Zayed Stadium, Abu Dhabi",United Arab Emirates,United Arab Emirates,consistent_resolved_venue;event_name_host,41
+Galle International Stadium,,galle international stadium,,Galle International Stadium,Sri Lanka,Sri Lanka,event_name_host,2
+"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Hambantota,mahinda rajapaksa international cricket stadium sooriyawewa hambantota,hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Sri Lanka,Sri Lanka,supplied_unique_city_country,21
+"P Saravanamuttu Stadium, Colombo",Colombo,p saravanamuttu stadium colombo,colombo,"P Saravanamuttu Stadium, Colombo",Sri Lanka,Sri Lanka,supplied_unique_city_country,1
+Pallekele International Cricket Stadium,Kandy,pallekele international cricket stadium,kandy,Pallekele International Cricket Stadium,Sri Lanka,Sri Lanka,supplied_venue_country,15
+Pallekele International Cricket Stadium,,pallekele international cricket stadium,,Pallekele International Cricket Stadium,Sri Lanka,Sri Lanka,supplied_venue_country,24
+"R Premadasa Stadium, Colombo",Colombo,r premadasa stadium colombo,colombo,"R Premadasa Stadium, Colombo",Sri Lanka,Sri Lanka,supplied_unique_city_country,88
+Rangiri Dambulla International Stadium,Dambulla,rangiri dambulla international stadium,dambulla,Rangiri Dambulla International Stadium,Sri Lanka,Sri Lanka,consistent_resolved_venue;event_name_host,9
+Rangiri Dambulla International Stadium,,rangiri dambulla international stadium,,Rangiri Dambulla International Stadium,Sri Lanka,Sri Lanka,consistent_resolved_venue;event_name_host,36
+Sinhalese Sports Club Ground,Colombo,sinhalese sports club ground,colombo,Sinhalese Sports Club Ground,Sri Lanka,Sri Lanka,supplied_venue_country,10
+"Boland Park, Paarl",Paarl,boland park paarl,paarl,"Boland Park, Paarl",South Africa,South Africa,direct_host_match_id,12
+"Buffalo Park, East London",East London,buffalo park east london,east london,"Buffalo Park, East London",South Africa,South Africa,direct_host_match_id,9
+"City Oval, Pietermaritzburg",Pietermaritzburg,city oval pietermaritzburg,pietermaritzburg,"City Oval, Pietermaritzburg",South Africa,South Africa,direct_host_match_id,1
+"Diamond Oval, Kimberley",Kimberley,diamond oval kimberley,kimberley,"Diamond Oval, Kimberley",South Africa,South Africa,direct_host_match_id,7
+"JB Marks Oval, Potchefstroom",Potchefstroom,jb marks oval potchefstroom,potchefstroom,"JB Marks Oval, Potchefstroom",South Africa,South Africa,direct_host_match_id,2
+"Kingsmead, Durban",Durban,kingsmead durban,durban,"Kingsmead, Durban",South Africa,South Africa,direct_host_match_id,29
+"Mangaung Oval, Bloemfontein",Bloemfontein,mangaung oval bloemfontein,bloemfontein,"Mangaung Oval, Bloemfontein",South Africa,South Africa,direct_host_match_id,18
+"Newlands, Cape Town",Cape Town,newlands cape town,cape town,"Newlands, Cape Town",South Africa,South Africa,direct_host_match_id,26
+"North West Cricket Stadium, Potchefstroom",Potchefstroom,north west cricket stadium potchefstroom,potchefstroom,"North West Cricket Stadium, Potchefstroom",South Africa,South Africa,direct_host_match_id,4
+"Senwes Park, Potchefstroom",Potchefstroom,senwes park potchefstroom,potchefstroom,"Senwes Park, Potchefstroom",South Africa,South Africa,direct_host_match_id,6
+"St George's Park, Gqeberha",Gqeberha,st george s park gqeberha,gqeberha,St George's Park,South Africa,South Africa,direct_host_match_id,1
+"St George's Park, Port Elizabeth",Gqeberha,st george s park port elizabeth,gqeberha,St George's Park,South Africa,South Africa,direct_host_match_id,5
+"St George's Park, Port Elizabeth",Port Elizabeth,st george s park port elizabeth,gqeberha,St George's Park,South Africa,South Africa,direct_host_match_id,20
+"SuperSport Park, Centurion",Centurion,supersport park centurion,centurion,"SuperSport Park, Centurion",South Africa,South Africa,direct_host_match_id,44
+"Wanderers Stadium, Johannesburg",Johannesburg,wanderers stadium johannesburg,johannesburg,"Wanderers Stadium, Johannesburg",South Africa,South Africa,direct_host_match_id,37
+"Willowmoore Park, Benoni",Benoni,willowmoore park benoni,benoni,"Willowmoore Park, Benoni",South Africa,South Africa,direct_host_match_id,13
+"Cambusdoon New Ground, Ayr",Ayr,cambusdoon new ground ayr,ayr,"Cambusdoon New Ground, Ayr",Scotland,Scotland,consistent_resolved_venue;event_name_host,3
+"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Edinburgh,grange cricket club ground raeburn place edinburgh,edinburgh,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,Scotland,supplied_unique_city_country,9
+"Arbab Niaz Stadium, Peshawar",Peshawar,arbab niaz stadium peshawar,peshawar,"Arbab Niaz Stadium, Peshawar",Pakistan,Pakistan,supplied_unique_city_country,3
+"Gaddafi Stadium, Lahore",Lahore,gaddafi stadium lahore,lahore,"Gaddafi Stadium, Lahore",Pakistan,Pakistan,supplied_unique_city_country,36
+"Iqbal Stadium, Faisalabad",Faisalabad,iqbal stadium faisalabad,faisalabad,"Iqbal Stadium, Faisalabad",Pakistan,Pakistan,supplied_unique_city_country,8
+Multan Cricket Stadium,Multan,multan cricket stadium,multan,Multan Cricket Stadium,Pakistan,Pakistan,consistent_resolved_venue;event_name_host,6
+Multan Cricket Stadium,,multan cricket stadium,,Multan Cricket Stadium,Pakistan,Pakistan,event_name_host,5
+"National Bank Cricket Arena, Karachi",Karachi,national bank cricket arena karachi,karachi,National Stadium Karachi,Pakistan,Pakistan,supplied_unique_city_country,10
+"National Stadium, Karachi",Karachi,national stadium karachi,karachi,National Stadium Karachi,Pakistan,Pakistan,supplied_unique_city_country,21
+"Niaz Stadium, Hyderabad, Sind",Sind,niaz stadium hyderabad sind,sind,"Niaz Stadium, Hyderabad, Sind",Pakistan,Pakistan,event_name_host,1
+Rawalpindi Cricket Stadium,Rawalpindi,rawalpindi cricket stadium,rawalpindi,Rawalpindi Cricket Stadium,Pakistan,Pakistan,supplied_venue_country,16
+Rawalpindi Cricket Stadium,,rawalpindi cricket stadium,,Rawalpindi Cricket Stadium,Pakistan,Pakistan,supplied_venue_country,5
+Sheikhupura Stadium,,sheikhupura stadium,,Sheikhupura Stadium,Pakistan,Pakistan,event_name_host,1
+"AMI Stadium, Christchurch",Christchurch,ami stadium christchurch,christchurch,"AMI Stadium, Christchurch",New Zealand,New Zealand,supplied_unique_city_country,4
+"Basin Reserve, Wellington",Wellington,basin reserve wellington,wellington,"Basin Reserve, Wellington",New Zealand,New Zealand,supplied_unique_city_country,6
+"Carisbrook, Dunedin",Dunedin,carisbrook dunedin,dunedin,"Carisbrook, Dunedin",New Zealand,New Zealand,supplied_unique_city_country,1
+"Cobham Oval (New), Whangarei",Whangarei,cobham oval new whangarei,whangarei,"Cobham Oval (New), Whangarei",New Zealand,New Zealand,event_name_host,2
+"Eden Park, Auckland",Auckland,eden park auckland,auckland,"Eden Park, Auckland",New Zealand,New Zealand,supplied_unique_city_country,29
+"Hagley Oval, Christchurch",Christchurch,hagley oval christchurch,christchurch,"Hagley Oval, Christchurch",New Zealand,New Zealand,supplied_unique_city_country,17
+"Jade Stadium, Christchurch",Christchurch,jade stadium christchurch,christchurch,"Jade Stadium, Christchurch",New Zealand,New Zealand,supplied_unique_city_country,4
+"McLean Park, Napier",Napier,mclean park napier,napier,"McLean Park, Napier",New Zealand,New Zealand,supplied_unique_city_country,21
+Queenstown Events Centre,Queenstown,queenstown events centre,queenstown,Queenstown Events Centre,New Zealand,New Zealand,event_name_host,2
+Queenstown Events Centre,,queenstown events centre,,Queenstown Events Centre,New Zealand,New Zealand,event_name_host,5
+"Saxton Oval, Nelson",Nelson,saxton oval nelson,nelson,"Saxton Oval, Nelson",New Zealand,New Zealand,supplied_unique_city_country,12
+"Seddon Park, Hamilton",Hamilton,seddon park hamilton,hamilton,"Seddon Park, Hamilton",New Zealand,New Zealand,supplied_unique_city_country,31
+"University Oval, Dunedin",Dunedin,university oval dunedin,dunedin,"University Oval, Dunedin",New Zealand,New Zealand,supplied_unique_city_country,10
+"Sky Stadium, Wellington",Wellington,sky stadium wellington,wellington,Wellington Stadium,New Zealand,New Zealand,supplied_unique_city_country,1
+"Westpac Stadium, Wellington",Wellington,westpac stadium wellington,wellington,Wellington Stadium,New Zealand,New Zealand,supplied_unique_city_country,21
+"Bready Cricket Club, Magheramason",Bready,bready cricket club magheramason,bready,"Bready Cricket Club, Magheramason",Netherlands,Netherlands,event_name_host,1
+"Hazelaarweg, Rotterdam",Rotterdam,hazelaarweg rotterdam,rotterdam,"Hazelaarweg, Rotterdam",Netherlands,Netherlands,consistent_resolved_venue;event_name_host,8
+"Sportpark Het Schootsveld, Deventer",Deventer,sportpark het schootsveld deventer,deventer,"Sportpark Het Schootsveld, Deventer",Netherlands,Netherlands,event_name_host,2
+"Sportpark Maarschalkerweerd, Utrecht",Utrecht,sportpark maarschalkerweerd utrecht,utrecht,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,Netherlands,consistent_resolved_venue;event_name_host,12
+"VRA Ground, Amstelveen",Amstelveen,vra ground amstelveen,amstelveen,"VRA Ground, Amstelveen",Netherlands,Netherlands,supplied_unique_city_country,14
+"Tribhuvan University International Cricket Ground, Kirtipur",Kirtipur,tribhuvan university international cricket ground kirtipur,kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,Nepal,consistent_resolved_venue;event_name_host,46
+"Affies Park, Windhoek",Windhoek,affies park windhoek,windhoek,"Affies Park, Windhoek",Namibia,Namibia,direct_host_match_id,1
+"High Performance Oval, Windhoek",Windhoek,high performance oval windhoek,windhoek,"High Performance Oval, Windhoek",Namibia,Namibia,direct_host_match_id,5
+"Namibia Cricket Ground, Windhoek",Windhoek,namibia cricket ground windhoek,windhoek,"Namibia Cricket Ground, Windhoek",Namibia,Namibia,direct_host_match_id,8
+"United Cricket Club Ground, Windhoek",Windhoek,united cricket club ground windhoek,windhoek,"United Cricket Club Ground, Windhoek",Namibia,Namibia,direct_host_match_id,17
+"Wanderers Cricket Ground, Windhoek",Windhoek,wanderers cricket ground windhoek,windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,Namibia,direct_host_match_id,20
+"Gymkhana Club Ground, Nairobi",Nairobi,gymkhana club ground nairobi,nairobi,"Gymkhana Club Ground, Nairobi",Kenya,Kenya,supplied_unique_city_country,13
+"Jaffery Sports Club Ground, Nairobi",Nairobi,jaffery sports club ground nairobi,nairobi,"Jaffery Sports Club Ground, Nairobi",Kenya,Kenya,supplied_unique_city_country,1
+"Ruaraka Sports Club Ground, Nairobi",Nairobi,ruaraka sports club ground nairobi,nairobi,"Ruaraka Sports Club Ground, Nairobi",Kenya,Kenya,supplied_unique_city_country,1
+"Clontarf Cricket Club Ground, Dublin",Dublin,clontarf cricket club ground dublin,dublin,"Clontarf Cricket Club Ground, Dublin",Ireland,Ireland,supplied_unique_city_country,19
+"Malahide Cricket Ground, Dublin",Dublin,malahide cricket ground dublin,dublin,"Malahide Cricket Ground, Dublin",Ireland,Ireland,supplied_unique_city_country,21
+"Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",Visakhapatnam,andhra cricket association visakhapatnam district cricket association stadium visakhapatnam,visakhapatnam,"Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",India,India,supplied_unique_city_country,9
+"Barabati Stadium, Cuttack",Cuttack,barabati stadium cuttack,cuttack,"Barabati Stadium, Cuttack",India,India,supplied_unique_city_country,8
+"Barsapara Cricket Stadium, Guwahati",Guwahati,barsapara cricket stadium guwahati,guwahati,"Barsapara Cricket Stadium, Guwahati",India,India,event_name_host,3
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,bharat ratna shri atal bihari vajpayee ekana cricket stadium lucknow,lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,India,supplied_unique_city_country,5
+"Brabourne Stadium, Mumbai",Mumbai,brabourne stadium mumbai,mumbai,"Brabourne Stadium, Mumbai",India,India,supplied_unique_city_country,6
+"Captain Roop Singh Stadium, Gwalior",Gwalior,captain roop singh stadium gwalior,gwalior,"Captain Roop Singh Stadium, Gwalior",India,India,supplied_unique_city_country,3
+"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,dr y s rajasekhara reddy aca vdca cricket stadium visakhapatnam,visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,India,supplied_unique_city_country,2
+"Eden Gardens, Kolkata",Kolkata,eden gardens kolkata,kolkata,"Eden Gardens, Kolkata",India,India,supplied_unique_city_country,16
+Arun Jaitley Stadium,Delhi,arun jaitley stadium,delhi,Feroz Shah Kotla,India,India,supplied_venue_country,4
+"Feroz Shah Kotla, Delhi",Delhi,feroz shah kotla delhi,delhi,Feroz Shah Kotla,India,India,supplied_unique_city_country,13
+"Green Park, Kanpur",Kanpur,green park kanpur,kanpur,"Green Park, Kanpur",India,India,supplied_unique_city_country,6
+"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,greenfield international stadium thiruvananthapuram,thiruvananthapuram,"Greenfield International Stadium, Thiruvananthapuram",India,India,event_name_host,3
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,himachal pradesh cricket association stadium dharamsala,dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,India,supplied_unique_city_country,6
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharmasala,himachal pradesh cricket association stadium dharamsala,dharmasala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,India,event_name_host,2
+"Holkar Cricket Stadium, Indore",Indore,holkar cricket stadium indore,indore,"Holkar Cricket Stadium, Indore",India,India,supplied_unique_city_country,6
+"JSCA International Stadium Complex, Ranchi",Ranchi,jsca international stadium complex ranchi,ranchi,"JSCA International Stadium Complex, Ranchi",India,India,event_name_host,7
+"Keenan Stadium, Jamshedpur",Jamshedpur,keenan stadium jamshedpur,jamshedpur,"Keenan Stadium, Jamshedpur",India,India,event_name_host,1
+"Kotambi Stadium, Vadodara",Vadodara,kotambi stadium vadodara,vadodara,"Kotambi Stadium, Vadodara",India,India,supplied_unique_city_country,1
+"Lal Bahadur Shastri Stadium, Hyderabad, Deccan",Hyderabad,lal bahadur shastri stadium hyderabad deccan,hyderabad,"Lal Bahadur Shastri Stadium, Hyderabad, Deccan",India,India,consistent_resolved_city,1
+"M Chinnaswamy Stadium, Bangalore",Bangalore,m chinnaswamy stadium bangalore,bangalore,"M Chinnaswamy Stadium, Bangalore",India,India,consistent_resolved_venue;event_name_host,10
+"M Chinnaswamy Stadium, Bengaluru",Bengaluru,m chinnaswamy stadium bengaluru,bengaluru,"M Chinnaswamy Stadium, Bengaluru",India,India,supplied_unique_city_country,7
+MA Chidambaram Stadium,Chennai,ma chidambaram stadium,chennai,MA Chidambaram Stadium,India,India,supplied_venue_country,18
+"Madhavrao Scindia Cricket Ground, Rajkot",Rajkot,madhavrao scindia cricket ground rajkot,rajkot,"Madhavrao Scindia Cricket Ground, Rajkot",India,India,event_name_host,4
+"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,maharaja yadavindra singh international cricket stadium new chandigarh,new chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",India,India,event_name_host,1
+"Maharani Usharaje Trust Cricket Ground, Indore",Indore,maharani usharaje trust cricket ground indore,indore,"Maharani Usharaje Trust Cricket Ground, Indore",India,India,supplied_unique_city_country,2
+"Maharashtra Cricket Association Stadium, Pune",Pune,maharashtra cricket association stadium pune,pune,"Maharashtra Cricket Association Stadium, Pune",India,India,supplied_unique_city_country,11
+"Nahar Singh Stadium, Faridabad",Faridabad,nahar singh stadium faridabad,faridabad,"Nahar Singh Stadium, Faridabad",India,India,consistent_resolved_venue;event_name_host,2
+"Nehru Stadium, Fatorda, Margao",Margao,nehru stadium fatorda margao,margao,"Nehru Stadium, Fatorda, Margao",India,India,event_name_host,2
+"Nehru Stadium, Guwahati",Guwahati,nehru stadium guwahati,guwahati,"Nehru Stadium, Guwahati",India,India,event_name_host,3
+"Nehru Stadium, Kochi",Kochi,nehru stadium kochi,kochi,"Nehru Stadium, Kochi",India,India,event_name_host,4
+"Nehru Stadium, Pune",Pune,nehru stadium pune,pune,"Nehru Stadium, Pune",India,India,supplied_unique_city_country,2
+"Niranjan Shah Stadium, Rajkot",Rajkot,niranjan shah stadium rajkot,rajkot,"Niranjan Shah Stadium, Rajkot",India,India,event_name_host,1
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,punjab cricket association is bindra stadium mohali chandigarh,chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,India,supplied_unique_city_country,4
+"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,punjab cricket association stadium mohali chandigarh,chandigarh,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,India,supplied_unique_city_country,14
+"Rajiv Gandhi International Stadium, Uppal",Hyderabad,rajiv gandhi international stadium uppal,hyderabad,"Rajiv Gandhi International Stadium, Uppal",India,India,consistent_resolved_venue;event_name_host,10
+"Reliance Stadium, Vadodara",Vadodara,reliance stadium vadodara,vadodara,"Reliance Stadium, Vadodara",India,India,supplied_unique_city_country,5
+"Narendra Modi Stadium, Ahmedabad",Ahmedabad,narendra modi stadium ahmedabad,ahmedabad,Sardar Patel Stadium,India,India,supplied_unique_city_country,8
+"Sardar Patel Stadium, Motera, Ahmedabad",Ahmedabad,sardar patel stadium motera ahmedabad,ahmedabad,Sardar Patel Stadium,India,India,supplied_unique_city_country,13
+"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,saurashtra cricket association stadium rajkot,rajkot,"Saurashtra Cricket Association Stadium, Rajkot",India,India,event_name_host,4
+"Sawai Mansingh Stadium, Jaipur",Jaipur,sawai mansingh stadium jaipur,jaipur,"Sawai Mansingh Stadium, Jaipur",India,India,supplied_unique_city_country,10
+"Sector 16 Stadium, Chandigarh",Chandigarh,sector 16 stadium chandigarh,chandigarh,"Sector 16 Stadium, Chandigarh",India,India,supplied_unique_city_country,1
+"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,shaheed veer narayan singh international stadium raipur,raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,India,event_name_host,2
+"Vidarbha Cricket Association Ground, Nagpur",Nagpur,vidarbha cricket association ground nagpur,nagpur,"Vidarbha Cricket Association Ground, Nagpur",India,India,supplied_unique_city_country,2
+"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,vidarbha cricket association stadium jamtha nagpur,nagpur,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,India,supplied_unique_city_country,10
+"Wankhede Stadium, Mumbai",Mumbai,wankhede stadium mumbai,mumbai,"Wankhede Stadium, Mumbai",India,India,supplied_unique_city_country,15
+"Mission Road Ground, Mong Kok, Hong Kong",Hong Kong,mission road ground mong kok hong kong,hong kong,"Mission Road Ground, Mong Kok, Hong Kong",Hong Kong,Hong Kong,event_name_host,3
+"County Ground, Bristol",Bristol,county ground bristol,bristol,"County Ground, Bristol",England,England,supplied_unique_city_country,12
+Edgbaston,Birmingham,edgbaston,birmingham,Edgbaston,England,England,supplied_venue_country,34
+Headingley,Leeds,headingley,leeds,Headingley,England,England,supplied_venue_country,20
+Lord's,London,lord s,london,Lord's,England,England,supplied_venue_country,40
+Old Trafford,Manchester,old trafford,manchester,Old Trafford,England,England,supplied_venue_country,24
+"Riverside Ground, Chester-le-Street",Chester-le-Street,riverside ground chester le street,chester le street,"Riverside Ground, Chester-le-Street",England,England,supplied_unique_city_country,18
+"St Lawrence Ground, Canterbury",Canterbury,st lawrence ground canterbury,canterbury,"St Lawrence Ground, Canterbury",England,England,supplied_unique_city_country,2
+"The County Ground, Chelmsford",Chelmsford,the county ground chelmsford,chelmsford,"The County Ground, Chelmsford",England,England,supplied_unique_city_country,3
+"The County Ground, Taunton",Taunton,the county ground taunton,taunton,"The County Ground, Taunton",England,England,supplied_unique_city_country,2
+The Oval,London,the oval,london,The Oval,England,England,supplied_venue_country,49
+"The Rose Bowl, Southampton",Southampton,the rose bowl southampton,southampton,"The Rose Bowl, Southampton",England,England,supplied_unique_city_country,30
+Trent Bridge,Nottingham,trent bridge,nottingham,Trent Bridge,England,England,supplied_venue_country,27
+"Maple Leaf North-West Ground, King City",King City,maple leaf north west ground king city,king city,"Maple Leaf North-West Ground, King City",Canada,Canada,consistent_resolved_venue;event_name_host,17
+"Maple Leaf North-West Ground, King City",Toronto,maple leaf north west ground king city,toronto,"Maple Leaf North-West Ground, King City",Canada,Canada,event_name_host,1
+"Toronto Cricket, Skating and Curling Club",Toronto,toronto cricket skating and curling club,toronto,"Toronto Cricket, Skating and Curling Club",Canada,Canada,event_name_host,1
+"Bangabandhu National Stadium, Dhaka",Dhaka,bangabandhu national stadium dhaka,dhaka,"Bangabandhu National Stadium, Dhaka",Bangladesh,Bangladesh,consistent_resolved_venue;event_name_host,5
+"Bir Shrestha Shahid Ruhul Amin Stadium, Chittagong",,bir shrestha shahid ruhul amin stadium chittagong,,"Bir Shrestha Shahid Ruhul Amin Stadium, Chittagong",Bangladesh,Bangladesh,event_name_host,3
+"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,bir sreshtho flight lieutenant matiur rahman stadium chattogram,chattogram,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Bangladesh,Bangladesh,supplied_unique_city_country,1
+Chittagong Stadium,Chattogram,chittagong stadium,chattogram,Chittagong Stadium,Bangladesh,Bangladesh,supplied_unique_city_country,4
+"Khan Shaheb Osman Ali Stadium, Fatullah",Fatullah,khan shaheb osman ali stadium fatullah,fatullah,"Khan Shaheb Osman Ali Stadium, Fatullah",Bangladesh,Bangladesh,consistent_resolved_venue;event_name_host,4
+"Narayanganj Osmani Stadium, Fatullah",Fatullah,narayanganj osmani stadium fatullah,fatullah,"Narayanganj Osmani Stadium, Fatullah",Bangladesh,Bangladesh,event_name_host,2
+"Shaheed Chandu Stadium, Bogra",Bogra,shaheed chandu stadium bogra,bogra,"Shaheed Chandu Stadium, Bogra",Bangladesh,Bangladesh,event_name_host,4
+"Sheikh Abu Naser Stadium, Khulna",Khulna,sheikh abu naser stadium khulna,khulna,"Sheikh Abu Naser Stadium, Khulna",Bangladesh,Bangladesh,event_name_host,2
+"Shere Bangla National Stadium, Mirpur",Dhaka,shere bangla national stadium mirpur,dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,Bangladesh,consistent_resolved_venue;event_name_host,32
+"Shere Bangla National Stadium, Mirpur",Mirpur,shere bangla national stadium mirpur,mirpur,"Shere Bangla National Stadium, Mirpur",Bangladesh,Bangladesh,supplied_unique_city_country,84
+Sylhet International Cricket Stadium,Sylhet,sylhet international cricket stadium,sylhet,Sylhet International Cricket Stadium,Bangladesh,Bangladesh,event_name_host,7
+"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,zahur ahmed chowdhury stadium chattogram,chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Bangladesh,supplied_unique_city_country,8
+"Zahur Ahmed Chowdhury Stadium, Chittagong",Chittagong,zahur ahmed chowdhury stadium chittagong,chattogram,"Zahur Ahmed Chowdhury Stadium, Chittagong",Bangladesh,Bangladesh,supplied_unique_city_country,12
+Adelaide Oval,Adelaide,adelaide oval,adelaide,Adelaide Oval,Australia,Australia,supplied_venue_country,6
+Adelaide Oval,,adelaide oval,,Adelaide Oval,Australia,Australia,supplied_venue_country,27
+"Bellerive Oval, Hobart",Hobart,bellerive oval hobart,hobart,"Bellerive Oval, Hobart",Australia,Australia,supplied_unique_city_country,18
+Brisbane Cricket Ground,Brisbane,brisbane cricket ground,brisbane,Brisbane Cricket Ground,Australia,Australia,supplied_unique_city_country,29
+"Bundaberg Rum Stadium, Cairns",Cairns,bundaberg rum stadium cairns,cairns,"Bundaberg Rum Stadium, Cairns",Australia,Australia,event_name_host,2
+"Cazalys Stadium, Cairns",Cairns,cazalys stadium cairns,cairns,"Cazalys Stadium, Cairns",Australia,Australia,event_name_host,4
+"Great Barrier Reef Arena, Mackay",Mackay,great barrier reef arena mackay,mackay,"Great Barrier Reef Arena, Mackay",Australia,Australia,supplied_unique_city_country,2
+"Manuka Oval, Canberra",Canberra,manuka oval canberra,canberra,"Manuka Oval, Canberra",Australia,Australia,supplied_unique_city_country,8
+"Marrara Cricket Ground, Darwin",Darwin,marrara cricket ground darwin,darwin,"Marrara Cricket Ground, Darwin",Australia,Australia,event_name_host,4
+Melbourne Cricket Ground,Melbourne,melbourne cricket ground,melbourne,Melbourne Cricket Ground,Australia,Australia,supplied_venue_country,9
+Melbourne Cricket Ground,,melbourne cricket ground,,Melbourne Cricket Ground,Australia,Australia,supplied_venue_country,29
+Perth Stadium,Perth,perth stadium,perth,Perth Stadium,Australia,Australia,supplied_unique_city_country,2
+Perth Stadium,,perth stadium,,Perth Stadium,Australia,Australia,event_name_host,2
+"Riverway Stadium, Townsville",Townsville,riverway stadium townsville,townsville,"Riverway Stadium, Townsville",Australia,Australia,event_name_host,3
+Sydney Cricket Ground,Sydney,sydney cricket ground,sydney,Sydney Cricket Ground,Australia,Australia,supplied_venue_country,13
+Sydney Cricket Ground,,sydney cricket ground,,Sydney Cricket Ground,Australia,Australia,supplied_venue_country,35
+"Telstra Dome, Melbourne",Melbourne,telstra dome melbourne,melbourne,"Telstra Dome, Melbourne",Australia,Australia,supplied_unique_city_country,5
+"WACA, Perth",Perth,waca perth,perth,"WACA, Perth",Australia,Australia,supplied_unique_city_country,26
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,al amerat cricket ground oman cricket ministry turf 1,al amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),,,unresolved,34
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Al Amarat,al amerat cricket ground oman cricket ministry turf 2,al amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),,,unresolved,5
+"Amini Park, Port Moresby",Port Moresby,amini park port moresby,port moresby,"Amini Park, Port Moresby",,,unresolved,6
+"Bay Oval, Mount Maunganui",Mount Maunganui,bay oval mount maunganui,mount maunganui,"Bay Oval, Mount Maunganui",,,event_name_host;unresolved,13
+"Bayuemas Oval, Kuala Lumpur",Kuala Lumpur,bayuemas oval kuala lumpur,kuala lumpur,"Bayuemas Oval, Kuala Lumpur",,,unresolved,2
+"Bert Sutcliffe Oval, Lincoln",Lincoln,bert sutcliffe oval lincoln,lincoln,"Bert Sutcliffe Oval, Lincoln",,,unresolved,1
+"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,central broward regional park stadium turf ground lauderhill,lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",,,unresolved,11
+"Civil Service Cricket Club, Stormont, Belfast",Belfast,civil service cricket club stormont belfast,belfast,"Civil Service Cricket Club, Stormont, Belfast",,,event_name_host;unresolved,18
+"Forthill, Dundee",Dundee,forthill dundee,dundee,"Forthill, Dundee",,,unresolved,16
+"Grand Prairie Stadium, Dallas",Dallas,grand prairie stadium dallas,dallas,"Grand Prairie Stadium, Dallas",,,unresolved,11
+"Kinrara Academy Oval, Kuala Lumpur",Kuala Lumpur,kinrara academy oval kuala lumpur,kuala lumpur,"Kinrara Academy Oval, Kuala Lumpur",,,unresolved,8
+"Mannofield Park, Aberdeen",Aberdeen,mannofield park aberdeen,aberdeen,"Mannofield Park, Aberdeen",,,unresolved,13
+Mombasa Sports Club Ground,,mombasa sports club ground,,Mombasa Sports Club Ground,,,unresolved,2
+"Moosa Cricket Stadium, Pearland",Pearland,moosa cricket stadium pearland,pearland,"Moosa Cricket Stadium, Pearland",,,unresolved,12
+Mulpani Cricket Ground,Kathmandu,mulpani cricket ground,kathmandu,Mulpani Cricket Ground,,,unresolved,1
+"Sportpark Westvliet, The Hague",The Hague,sportpark westvliet the hague,the hague,"Sportpark Westvliet, The Hague",,,unresolved,3
+"Titwood, Glasgow",Glasgow,titwood glasgow,glasgow,"Titwood, Glasgow",,,unresolved,4
+"YSD-UKM Cricket Oval, Bangi",Bangi,ysd ukm cricket oval bangi,bangi,"YSD-UKM Cricket Oval, Bangi",,,unresolved,1
